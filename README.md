@@ -7,6 +7,6 @@ This is a collection of files to use Leo as a Formality IDE. It will include syn
 ## How?
 
 1. Install Formality and Leo.
-2. Copy the file `modules/formality.py` in leo's modules folder.
+2. Copy the file `modes/formality.py` in leo's modes folder. In my machine it is `/usr/lib/python3.9/site-packages/leo/modes/`.
 3. `git clone github.com/moonad/formality.git`
 4. Copy the file `formality.leo` in the formality folder.
